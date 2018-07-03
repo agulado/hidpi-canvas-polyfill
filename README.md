@@ -1,5 +1,11 @@
 # HiDPI Canvas Polyfill
 
+agulado
+---
+```
+不太清楚为什么翻倍的命令没有drawImage，我加上了
+```
+
 [![Build Status](https://travis-ci.org/jondavidjohn/hidpi-canvas-polyfill.svg?branch=master)](https://travis-ci.org/jondavidjohn/hidpi-canvas-polyfill)
 
 This is a drop-in polyfill to scale canvas appropriately to maintain sharpness
